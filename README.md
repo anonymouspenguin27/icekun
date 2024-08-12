@@ -5,35 +5,34 @@
 
 <!---[Demo video](https://github.com/anonymouspenguin27/icekun/assets/173242664/fcf03fa0-92e3-4f90-a691-8172b79b1c6b)--->
 
-## Unrestricted interactions with Ice-kun in several languages (the top textbox shows the user input, while the second one shows Ice-kun's status)
+## Limitless and playful interactions with Ice-kun in several languages. The top textbox shows the user input, while the second one shows Ice-kun's internal status (thoughts)
 
 #### User input: "Dance!" (En)
-[Demo video](https://github.com/user-attachments/assets/402330ae-9c6e-4d83-ba89-c61b6199f7a1)
+[Demo video](https://github.com/user-attachments/assets/6a91aa8a-5638-4f56-a7ef-0f453d267ce8)
 
 #### User input: "Dance!" (Fr)
-[Demo Video](https://github.com/user-attachments/assets/0f65db73-e32e-4b4b-9397-19f7966e20db)
+[Demo Video](https://github.com/user-attachments/assets/fa546052-181a-40b7-a438-7025c4e87c46)
 
 #### User input: "Dance!" (Jp)
-[Demo Video](https://github.com/user-attachments/assets/f885cb80-095a-4088-8d6a-31605381c5ab)
+[Demo Video](https://github.com/user-attachments/assets/2d2d663a-a650-40c7-8e6d-289cd906faee)
 
 #### User input: "Tap dance!" (En)
-[Demo Video](https://github.com/user-attachments/assets/af0d9428-0510-49d1-ac37-1b1d33a12398)
+[Demo Video](https://github.com/user-attachments/assets/ed195812-d985-4957-8662-b3d6dbeb209c)
 
 #### User input: "Raise your left hand!" (En)
-[Demo Video](https://github.com/user-attachments/assets/94d43410-4f56-4a1b-b821-de4f11052ab1)
+[Demo Video](https://github.com/user-attachments/assets/ff334444-74c7-40d7-9510-586907f04e34)
 
 #### User input: "Raise your right hand twice!" (En)
-[Demo Video](https://github.com/user-attachments/assets/85f964ca-3139-4f3c-a5ed-cf8edbc6f80d)
+[Demo Video](https://github.com/user-attachments/assets/c1a991b8-ba71-4a84-89fe-0165c2968e40)
 
 #### User input: "You are a good boy!" (En)
-[Demo Video](https://github.com/user-attachments/assets/288441f8-add9-4084-ade6-d7b4a836359a)
+[Demo Video](https://github.com/user-attachments/assets/edf86849-587a-4792-be15-ec193a4470f5)
 
 #### User input: "Cute!" (Jp)
-[Demo Video](https://github.com/user-attachments/assets/b98ab888-5638-4e55-b3de-5e1d13cc1ce9)
+[Demo Video](https://github.com/user-attachments/assets/f4bb7523-63eb-4951-9edc-32a629f8c9bd)
 
 #### User input: "Cute!" (Fr)
-[Demo Video](https://github.com/user-attachments/assets/58a597b9-f17b-42e5-9dac-fea8ad0c6ad3)
+[Demo Video](https://github.com/user-attachments/assets/75187495-5cce-4579-914e-645628f69773)
 
 #### User input: "Hello! How are you? I'm going to eat a big hamburger and not give you anything!", then "I'm sorry, I will share my food with you"
-[Demo Video](https://github.com/user-attachments/assets/08b28e09-c4d5-439a-9522-6f909b16bbc6)
-
+[Demo Video](https://github.com/user-attachments/assets/25b92e9a-f4e0-4354-b247-21f93de2212f)
