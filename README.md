@@ -1,7 +1,8 @@
 # Ice-kun: A Virtual Pet on a Low Energy Display Controlled by a Large Language Model
 
 ![Main Figures](https://github.com/user-attachments/assets/7b180db7-4d44-42f4-898a-4209d24a182f)
-[[Experiment Results](https://github.com/user-attachments/files/17208051/20240920_experiment.zip)]
+<!---[[Experiment Results](https://github.com/user-attachments/files/17208051/20240920_experiment.zip)]--->
+[[Experiment Results](https://github.com/user-attachments/files/17406527/results20241016.zip)
 
 The code will be available when the paper is published.
 
