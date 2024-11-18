@@ -8,9 +8,10 @@ The code will be available when the paper is published.
 
 <!---[Demo video](https://github.com/anonymouspenguin27/icekun/assets/173242664/fcf03fa0-92e3-4f90-a691-8172b79b1c6b)--->
 
-## Limitless and playful interactions with Ice-kun in several languages. The top textbox shows the user input, while the second one shows Ice-kun's internal status (thoughts)
-
+## Exhibition
 Click [here](https://www.youtube.com/playlist?list=PLwrbb0kRyPslkx9I8OgCX1W4nHpNyaWAX) for videos showcasing Ice-kun’s interactions during an [interactive exhibition](https://www.rcgs.jp/?p=3042) conducted from November 8 to December 11, 2024.
+
+## Limitless and playful interactions with Ice-kun in several languages. The top textbox shows the user input, while the second one shows Ice-kun's internal status (thoughts)
 
 #### User input: "Dance!" (En)
 [Demo video](https://github.com/user-attachments/assets/6a91aa8a-5638-4f56-a7ef-0f453d267ce8)
